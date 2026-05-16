@@ -1,12 +1,12 @@
 # SPACE 4 YOU INTERIOR DESIGNS - WEBSITE IMAGE SIZE
 
-📌 **Important**: All images in WebP format
+📌 **Important**: Provide all images in WebP format for fast website loading
 
 ---
 
 ## 1. Hero Section (hero)
-- Slider 1 image: 1440 × 832 px
-- Slider 2 image: 1440 × 832 px
+- Slider 1 image: 1440 × 815 px
+- Slider 2 image: 1440 × 815 px
 
 ---
 
