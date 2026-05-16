@@ -5,8 +5,8 @@
 ---
 
 ## 1. Hero Section (hero)
-- Slider 1 image: 1440 × 815 px
-- Slider 2 image: 1440 × 815 px
+- Slider 1 image: 1440 × 832 px
+- Slider 2 image: 1440 × 832 px
 
 ---
 
