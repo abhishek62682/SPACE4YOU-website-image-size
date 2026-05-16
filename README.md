@@ -34,7 +34,7 @@ Each Card: 411 × 300 px
 - Card 5: Bathroom Renovation
 - Card 6: Pooja Room Design
 - Card 7: Space-Saving Furniture Solutions
-- Card 8: [Commercial and Shops Interior](http://127.0.0.1:5500/gallery.html?category=commercial)
+- Card 8: Commercial and Shops Interior
 - Card 9: Lighting & Ceiling Design
 - Card 10: Flooring & Wall Finishes
 - Card 11: Custom Furniture & Cabinetry
